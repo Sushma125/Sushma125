@@ -29,7 +29,8 @@ unordered list
 # nexted list
 1. Ece      
    - first year
-   - students are good  
+   - students are good 
+    
 ```python code
 a=10
 if a%2=0
