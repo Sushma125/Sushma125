@@ -15,6 +15,14 @@ ordered list
 1. cse
 2. ece
 3. EEE
+4. mech
+5. IT
+unordered list
+- EEE
+- EcE
+- cse
+- Mba
+- Mca
 
 
 
