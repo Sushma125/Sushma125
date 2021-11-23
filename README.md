@@ -10,10 +10,11 @@
 |1|priya|505|95|
 |2|bindhu|507|89|
 |3|sushma|578|90|
+
 ordered list
-1.cse
-2.ece
-3.EEE
+1. cse
+2. ece
+3. EEE
 
 
 
