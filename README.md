@@ -5,6 +5,11 @@
 **A section**
 ***welcome***
 ![image](https://user-images.githubusercontent.com/84238408/142971992-56eb8918-93de-4b7a-b546-48b2d225a8d6.png)
+|s.no|Name|roll no|marks|
+|----|----|------|-----|
+|1|priya|505|95|
+|2|bindhu|507|89|
+|3|sushma|578|90|
 
 
 
