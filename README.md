@@ -4,7 +4,7 @@
 *cse*<br>
 **A section**
 ***welcome***
-![image name](url-img)![image](https://user-images.githubusercontent.com/84238408/142971839-8e2fffc0-c3e3-40fe-b475-9a06a3f51537.png)
+![image](https://user-images.githubusercontent.com/84238408/142971839-8e2fffc0-c3e3-40fe-b475-9a06a3f51537.png)
 
 
 
