@@ -11,8 +11,7 @@
 |2|bindhu|507|89|
 |3|sushma|578|90|
 
-##lists
-
+## lists
 ordered list
 1. cse
 2. ece
@@ -29,8 +28,8 @@ unordered list
 
 # nexted list
 1. Ece      
-   1.first year
-   2.students are good  
+   - first year
+   - students are good  
 
 
 
